@@ -32,7 +32,7 @@ environments:
   repository: ""
 gitops: true
 ingress:
-  domain: ""
+  domain: "jxdemo.jenkins-x.arm64.linaro.org"
   externalDNS: false
   namespaceSubDomain: -jx.
   tls:
